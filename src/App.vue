@@ -1,5 +1,5 @@
 <template>
-  <mainapp msg="e efsf dse"/>
+  <mainapp msg="Vue App"/>
 </template>
 
 <script>
